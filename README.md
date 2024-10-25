@@ -1,4 +1,17 @@
 
+# **AI Board**
+
+Ai Board is a Whiteboard which can be used as a normal whiteboard and also a supercool calculator that generates reponse from the image drawn on the board!
+SOUNDS PRETTY COOL ISN'T IT?
+
+**Technologies Used:**
+
+*Frontend:* *JavaScript, TypeScript, React JS, Shadcn UI, TailwindCSS.*
+
+*Backend: Python, FastAPI.*
+
+
+
 ## ***Installation***
 
 Here the frontend and backend are separeted so lets dive in on the setup:
